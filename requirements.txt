@@ -1,0 +1,14 @@
+langchain
+langchain_core
+langchain_community
+langchain_classic
+streamlit
+langchain_chroma
+langchain_groq
+langchain_huggingface
+python-dotenv
+ipykernel
+sentence-transformers
+langchain_text_splitters
+pypdf
+torchvision
